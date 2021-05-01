@@ -1,0 +1,144 @@
+{
+  "headData": {
+    "title": "Specific Location | Geebo Device Repair - Sackville Dr",
+    "metaList": [
+      {
+        "name": "description",
+        "content": "Specific Location Page for Geebo Device Repair Sackville Dr"
+      }
+    ]
+  },
+  "section1": {
+    "title": "Sackville’s Fastest Phone, Tablet & Laptop Repair",
+    "subTitle": "619 Sackville Dr",
+    "locationExtraNote": {
+      "title": "Geebo Device Repair - Sackville Dr",
+      "content": "* The closest major intersection is Sackville Dr, and we’re located across from the Safeway in the Tuxedo Edge stripmall next to TD."
+    },
+    "displayMap": true
+  },
+  "section2": {
+    "title": "Get Your Device Fixed Fast & Reliably",
+    "content": "Geebo Device Repair has expanded to service Sackville, NS residents and is  located at 619 Sackville Dr next to H&R Block. We repair and service all popular and less common makes and models of smartphones, tablets and even laptops. If your device is damaged beyond repair, or you're worried about recovering your data, don’t give up before coming to see us. Use the repair quote widget on this page to select your device, issue and supply your contact info and we can get you a price quote and estimated turnaround ASAP. Turnaround time for your device can vary depending on the severity and if multiple repairs are required, but we’ll always let you know beforehand what the ETA to get your phone, tablet or laptop back in your hands",
+    "categories": [
+      {
+        "img": "https://storage.googleapis.com/adp_assets/images/3/geebo-mobile.png",
+        "title": "Cellphone",
+        "order": 1,
+        "isVisible": true
+      },
+      {
+        "img": "https://storage.googleapis.com/adp_assets/images/3/geebo-tablet.png",
+        "title": "Tablet",
+        "order": 2,
+        "isVisible": true
+      },
+      {
+        "img": "https://storage.googleapis.com/adp_assets/images/3/geebo-computer.png",
+        "title": "Computer",
+        "order": 3,
+        "isVisible": true
+      },
+      {
+        "img": "https://storage.googleapis.com/adp_assets/images/3/geebo-game.png",
+        "title": "Console",
+        "order": 4,
+        "isVisible": true
+      },
+      {
+        "img": "https://storage.googleapis.com/adp_assets/images/3/geebo-other.png",
+        "title": "Other",
+        "order": 5,
+        "isVisible": true
+      }
+    ],
+    "isVisible": true
+  },
+  "section3": {
+    "title": "Trade In Your Device and Save on a New One",
+    "content": "We pride ourselves on always having the most competitive and affordable prices in Sackville, but you can get an even better deal on a repair service or certified pre-owned device by trading in your old, broken or unwanted mobile devices. Even if your phone is broken, and just not cost-effective to fix, we can take it as trade in credit towards the cost of a certain repair or certified pre-owned device. We always match or even beat the trade in prices offered by the large carriers.",
+    "isVisible": true,
+    "imgLink": "https://storage.googleapis.com/adp_assets/images/common/trade-phone-1.svg"
+  },
+  "section4": {
+    "title": "Buy a New or Used Device with our 12 Month Warranty",
+    "content": "As a DeviceList Authorized Dealer, we are able to offer some of the best deals on certified pre-owned devices no matter what your budget, platform preference (Android, or iOS) as well as current celular carrier. Avoid the annoying unease of buying a used device off a platform like Facebook or any other unregulated marketplace. All our devices have passed a 60-point function test which makes sure everything from the auto-focus on the camera to the WiFi and bluetooth works perfectly, not to mention the aesthetic condition. No matter what device you're looking for, definitely reach out to Geebo first for the best deal!",
+    "isVisible": true,
+    "cards": [
+      {
+        "img": "https://storage.googleapis.com/adp_dev_images/products/1/iphone-12.png",
+        "title": "iPhone 12",
+        "subtitle": "As low as",
+        "price": "$897",
+        "order": 1,
+        "isVisible": true
+      },
+      {
+        "img": "https://storage.googleapis.com/adp_dev_images/products/1/iphone-5.png",
+        "title": "iPhone 5",
+        "subtitle": "As low as",
+        "price": "$897",
+        "order": 2,
+        "isVisible": true
+      },
+      {
+        "img": "https://storage.googleapis.com/adp_dev_images/products/1/iphone-5s.png",
+        "title": "iPhone 5s",
+        "subtitle": "As low as",
+        "price": "$897",
+        "order": 3,
+        "isVisible": true
+      },
+      {
+        "img": "https://storage.googleapis.com/adp_dev_images/products/1/iphone-7-plus.png",
+        "title": "iPhone 7 Plus",
+        "subtitle": "As low as",
+        "price": "$897",
+        "order": 4,
+        "isVisible": true
+      },
+      {
+        "img": "https://storage.googleapis.com/adp_dev_images/products/1/iphone-8.png",
+        "title": "iPhone 8",
+        "subtitle": "As low as",
+        "price": "$897",
+        "order": 5,
+        "isVisible": true
+      }
+    ]
+  },
+  "section5": {
+    "title": "See Why Customers Love Mobile Tech Lab",
+    "reviews": [
+      {
+        "order": 1,
+        "score": 5,
+        "day": "2021-04-08",
+        "content": "I needed a new battery for my iphone 6. After contacting several places who all told me the next available appointment was more than a week away, I called Mobile Tech on Corydon. Within 2 hours, my new battery was installed and ready for pickup. Great service and friendly staff.",
+        "reviewer": "Pepo",
+        "isVisible": true
+      },
+      {
+        "order": 2,
+        "score": 5,
+        "day": "2020-12-08",
+        "content": "Very glad I found this place! I send a request through FB to couple places asking for an estimate of the screen replacement and Mobile Tech Lab not only has automated estimation but they gave me a call almost right away to confirm that they have a part and it would be done in ... more",
+        "reviewer": "Elena Kurakin",
+        "isVisible": true
+      },
+      {
+        "order": 3,
+        "score": 5,
+        "day": "2020-05-05",
+        "content": "My experience was excepion really amazing people working there with reasonable prices for fixing electronics, they fix your electronics with a super reasonable time frame,.would highly recommend this company!",
+        "reviewer": "Jessica Johnson",
+        "isVisible": true
+      }
+    ]
+  },
+  "commingsoon": {
+    "title": "",
+    "subtitle": "",
+    "flag": false
+  }
+}

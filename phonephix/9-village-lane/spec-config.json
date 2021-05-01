@@ -1,0 +1,144 @@
+{
+  "headData": {
+    "title": "Specific Location | PhonePhix - Village Lane",
+    "metaList": [
+      {
+        "name": "description",
+        "content": "Specific Location Page for PhonePhix Village Lane"
+      }
+    ]
+  },
+  "section1": {
+    "title": "Okotoks Fastest Phone, Tablet & Laptop Repair",
+    "subTitle": "1300 Village Lane #11",
+    "locationExtraNote": {
+      "title": "PhonePhix - Village Lane",
+      "content": "* The closest major intersection is Village Lane, and we’re located across from the Safeway in the Tuxedo Edge stripmall next to TD."
+    },
+    "displayMap": true
+  },
+  "section2": {
+    "title": "Get Your Device Fixed Fast & Reliably",
+    "content": "Phonephix is the most comprehensive destination in Okotoks for fast, efficient and professional iPhone, iPad and Android device repair. When your carrier or manufacturer has given up on servicing your device bring your phone into our shop and we can get it resolved. From batteries that don’t last the day or broken screens, and even phones just not turning on at all. We’re the best option for out of warranty repairs. For local residents with a broken cell phone or tablet, use the online booking link on this page to get a quote on one or multiple device repairs. We have walk-in, mail-in and curbside pickup options available.",
+    "categories": [
+      {
+        "img": "https://storage.googleapis.com/adp_assets/images/9/phonephix-mobile.png",
+        "title": "Cellphone",
+        "order": 1,
+        "isVisible": true
+      },
+      {
+        "img": "https://storage.googleapis.com/adp_assets/images/9/phonephix-tablet.png",
+        "title": "Tablet",
+        "order": 2,
+        "isVisible": true
+      },
+      {
+        "img": "https://storage.googleapis.com/adp_assets/images/9/phonephix-computer.png",
+        "title": "Computer",
+        "order": 3,
+        "isVisible": true
+      },
+      {
+        "img": "https://storage.googleapis.com/adp_assets/images/9/phonephix-game.png",
+        "title": "Console",
+        "order": 4,
+        "isVisible": true
+      },
+      {
+        "img": "https://storage.googleapis.com/adp_assets/images/9/phonephix-other.png",
+        "title": "Other",
+        "order": 5,
+        "isVisible": true
+      }
+    ],
+    "isVisible": true
+  },
+  "section3": {
+    "title": "Trade In Your Device and Save on a New One",
+    "content": "Older devices can be traded in at our Okotoks location for either cash or credit towards either a repair or the cost of a new device. Skip the sketchy Facebook marketplace meetups, and get cash for your old, broken or unwanted devices by bringing it by our conveniently located Okotoks storefront. While carriers may only give you bill credit or accessory credit, we gladly pay out in cash or e-transfer.",
+    "isVisible": true,
+    "imgLink": "https://storage.googleapis.com/adp_assets/images/common/trade-phone-1.svg"
+  },
+  "section4": {
+    "title": "Buy a New or Used Device with our 12 Month Warranty",
+    "content": "We’re proud to offer certified pre-owned devices for those looking to upgrade or maybe replace a device that’s beyond economical repair. The phones and tablets we have all pass 60-point functionality tests and aesthetically are in excellent condition. Battery duration is tested and the battery is replaced if needed, and backed up by a one year warranty that excludes all physical or liquid damage. For customers who can see themselves potentially breaking the screen on a phone due to accidents, we’d recommend asking about the accidental insurance coverage.",
+    "isVisible": true,
+    "cards": [
+      {
+        "img": "https://storage.googleapis.com/adp_dev_images/products/1/iphone-12.png",
+        "title": "iPhone 12",
+        "subtitle": "As low as",
+        "price": "$897",
+        "order": 1,
+        "isVisible": true
+      },
+      {
+        "img": "https://storage.googleapis.com/adp_dev_images/products/1/iphone-5.png",
+        "title": "iPhone 5",
+        "subtitle": "As low as",
+        "price": "$897",
+        "order": 2,
+        "isVisible": true
+      },
+      {
+        "img": "https://storage.googleapis.com/adp_dev_images/products/1/iphone-5s.png",
+        "title": "iPhone 5s",
+        "subtitle": "As low as",
+        "price": "$897",
+        "order": 3,
+        "isVisible": true
+      },
+      {
+        "img": "https://storage.googleapis.com/adp_dev_images/products/1/iphone-7-plus.png",
+        "title": "iPhone 7 Plus",
+        "subtitle": "As low as",
+        "price": "$897",
+        "order": 4,
+        "isVisible": true
+      },
+      {
+        "img": "https://storage.googleapis.com/adp_dev_images/products/1/iphone-8.png",
+        "title": "iPhone 8",
+        "subtitle": "As low as",
+        "price": "$897",
+        "order": 5,
+        "isVisible": true
+      }
+    ]
+  },
+  "section5": {
+    "title": "See Why Customers Love Mobile Tech Lab",
+    "reviews": [
+      {
+        "order": 1,
+        "score": 5,
+        "day": "2021-04-08",
+        "content": "I needed a new battery for my iphone 6. After contacting several places who all told me the next available appointment was more than a week away, I called Mobile Tech on Corydon. Within 2 hours, my new battery was installed and ready for pickup. Great service and friendly staff.",
+        "reviewer": "Pepo",
+        "isVisible": true
+      },
+      {
+        "order": 2,
+        "score": 5,
+        "day": "2020-12-08",
+        "content": "Very glad I found this place! I send a request through FB to couple places asking for an estimate of the screen replacement and Mobile Tech Lab not only has automated estimation but they gave me a call almost right away to confirm that they have a part and it would be done in ... more",
+        "reviewer": "Elena Kurakin",
+        "isVisible": true
+      },
+      {
+        "order": 3,
+        "score": 5,
+        "day": "2020-05-05",
+        "content": "My experience was excepion really amazing people working there with reasonable prices for fixing electronics, they fix your electronics with a super reasonable time frame,.would highly recommend this company!",
+        "reviewer": "Jessica Johnson",
+        "isVisible": true
+      }
+    ]
+  },
+  "commingsoon": {
+    "title": "",
+    "subtitle": "",
+    "flag": false
+  }
+}

@@ -1,52 +1,52 @@
 {
   "headData": {
-    "title": "Location Specific | Northtech Lab - Corydon",
+    "title": "Specific Location | Geebo Device Repair - Clayton Park",
     "metaList": [
       {
         "name": "description",
-        "content": "Location Specific Page for Northtech Lab Corydon Ave area."
+        "content": "Specific Location Page for Geebo Device Repair Clayton Park"
       }
     ]
   },
   "section1": {
-    "title": "Winnipeg’s Fastest Phone, Tablet & Laptop Repair",
-    "subTitle": "Unit F - 2020 Corydon Avenue, Winnipeg",
+    "title": "West Halifax’s Fastest Phone, Tablet & Laptop Repair",
+    "subTitle": "30 Farnham Gate Rd",
     "locationExtraNote": {
-      "title": "Mobile Tech Lab - Corydon",
-      "content": "* The closest major intersection is Kenaston and Corydon, and we’re located across from the Safeway in the Tuxedo Edge stripmall next to TD."
+      "title": "Geebo Device Repair - Clayton Park",
+      "content": "* The closest major intersection is Clayton Park, and we’re located across from the Safeway in the Tuxedo Edge stripmall next to TD."
     },
     "displayMap": true
   },
   "section2": {
     "title": "Get Your Device Fixed Fast & Reliably",
-    "content": "Conveniently located in Tuxedo / River Heights, Mobile Tech Lab’s flagship location provides the fastest and most advanced cell phone, tablet, laptop and game console repair services anywhere in Winnipeg. If Apple, Samsung or your manufacturer or carrier has told you your device is damaged beyond repair, definitely give us a call or use the online quote widget on this site to get in touch with us. We offer curbside pickup, mail-in and walk-in services and our Corydon storefront is COVID-safe with mandatory masks and limited in store capacity as per City of Winnipeg guidelines. ",
+    "content": "Geebo Device Repair is accessible and conveniently located at 30 Farnham Gate Rd next to the Rockingham Ridge Dental Centre and services all popular and less common makes and models of smartphones, tablets and even laptops. If your device is damaged beyond repair, or you're worried about recovering your data, don’t give up before coming to see us. Use the repair quote widget on this page to select your device, issue and supply your contact info and we can get you a price ASAP. Turnaround time for your device can vary depending on the severity and if multiple repairs are required, but we’ll always let you know beforehand what the ETA to get your phone, tablet or laptop back in your hands",
     "categories": [
       {
-        "img": "https://storage.googleapis.com/adp_dev_assets/images/1/northtech-mobile.png",
+        "img": "https://storage.googleapis.com/adp_assets/images/3/geebo-mobile.png",
         "title": "Cellphone",
         "order": 1,
         "isVisible": true
       },
       {
-        "img": "https://storage.googleapis.com/adp_dev_assets/images/1/northtech-tablet.png",
+        "img": "https://storage.googleapis.com/adp_assets/images/3/geebo-tablet.png",
         "title": "Tablet",
         "order": 2,
         "isVisible": true
       },
       {
-        "img": "https://storage.googleapis.com/adp_dev_assets/images/1/northtech-computer.png",
+        "img": "https://storage.googleapis.com/adp_assets/images/3/geebo-computer.png",
         "title": "Computer",
         "order": 3,
         "isVisible": true
       },
       {
-        "img": "https://storage.googleapis.com/adp_dev_assets/images/1/northtech-game.png",
+        "img": "https://storage.googleapis.com/adp_assets/images/3/geebo-game.png",
         "title": "Console",
         "order": 4,
         "isVisible": true
       },
       {
-        "img": "https://storage.googleapis.com/adp_dev_assets/images/1/northtech-other.png",
+        "img": "https://storage.googleapis.com/adp_assets/images/3/geebo-other.png",
         "title": "Other",
         "order": 5,
         "isVisible": true
@@ -56,13 +56,13 @@
   },
   "section3": {
     "title": "Trade In Your Device and Save on a New One",
-    "content": "We’re proud to offer the most competitive prices for used, damaged or broken device trade-in in the city. Get a discount on a  certified pre-owned device that has passed a full 60-point function test and battery health test when you trade in your old device, whether it’s damaged or not. Purchasing a new device doesn’t have to be expensive or painful, we offer a streamlined process whether online or instore at our Corydon Ave storefront. ",
+    "content": "We pride ourselves on always having the most competitive and affordable prices in Halifax, but you can get an even better deal on a repair or certified pre-owned device by trading in your old, broken or unwanted mobile devices. Even if your phone is broken, and just not cost-effective to fix, we can take it as trade in credit towards the cost of a certain repair or certified pre-owned device. We always match or even beat the trade in prices offered by the large carriers.",
     "isVisible": true,
-    "imgLink": "https://storage.googleapis.com/adp_dev_assets/images/common/trade-phone-1.svg"
+    "imgLink": "https://storage.googleapis.com/adp_assets/images/common/trade-phone-1.svg"
   },
   "section4": {
     "title": "Buy a New or Used Device with our 12 Month Warranty",
-    "content": "All Mobile Tech Lab devices are meticulously tested and graded before being available for sale. We stand behind all our devices with a one year warranty and lifetime IMEI guarantee. Our devices are not repaired or purchased off Kijiji or Facebook, and instead come from verified carrier auctions in the States. We then sell the best condition and tested devices instore at competitive rates and pass the savings onto you. ",
+    "content": "As a DeviceList Authorized Dealer, we are able to offer some of the best deals on certified pre-owned devices no matter what your budget, platform preference (Android, or iOS) as well as current celular carrier. Avoid the annoying unease of buying a used device off a platform like Facebook or any other unregulated marketplace. All our devices have passed a 60-point function test which makes sure everything from the auto-focus on the camera to the WiFi and bluetooth works perfectly, not to mention the aesthetic condition. No matter what device you're looking for, definitely reach out to Geebo first for the best deal!",
     "isVisible": true,
     "cards": [
       {

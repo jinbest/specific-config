@@ -1,0 +1,144 @@
+{
+  "headData": {
+    "title": "Specific Location | Mobile Tech Lab - St Vital",
+    "metaList": [
+      {
+        "name": "description",
+        "content": "Specific Location Page for Mobile Tech Lab Corydon Ave area."
+      }
+    ]
+  },
+  "section1": {
+    "title": "Winnipeg’s Fastest Phone, Tablet & Laptop Repair",
+    "subTitle": "25-845 Dakota St (next to Freshii)",
+    "locationExtraNote": {
+      "title": "Mobile Tech Lab - St Vital",
+      "content": "* The closest major intersection is Kenaston and Corydon, and we’re located across from the Safeway in the Tuxedo Edge stripmall next to TD."
+    },
+    "displayMap": true
+  },
+  "section2": {
+    "title": "Get Your Device Fixed Fast & Reliably",
+    "content": "Mobile Tech Lab’s second location can be found across from the St. Vital Centre and proudly offers the entire South End of Winnipeg with access to fast, efficient and  advanced repair services. Whether you have a broken iPad, iPhone, Android device, tablet or even a game console, we’re the place to go to get your issue resolved without breaking the bank. We aim to offer a transparent, affordable and efficient repair process. If you’ve got a damaged cell phone, tablet, laptop, desktop or even game console feel free to use the repair booking widget to either book a walk-in, mail-in or curbside pickup for repairs. Our St. Vital location is open until 8PM, making it the most accessible repair storefront in the entire city. Drop off your device knowing we’re open late and you’ll be able to pick it up with ample parking and COVID safety precautions in place.",
+    "categories": [
+      {
+        "img": "https://storage.googleapis.com/adp_assets/images/4/mobiletech-mobile.png",
+        "title": "Cellphone",
+        "order": 1,
+        "isVisible": true
+      },
+      {
+        "img": "https://storage.googleapis.com/adp_assets/images/4/mobiletech-tablet.png",
+        "title": "Tablet",
+        "order": 2,
+        "isVisible": true
+      },
+      {
+        "img": "https://storage.googleapis.com/adp_assets/images/4/mobiletech-computer.png",
+        "title": "Computer",
+        "order": 3,
+        "isVisible": true
+      },
+      {
+        "img": "https://storage.googleapis.com/adp_assets/images/4/mobiletech-game.png",
+        "title": "Console",
+        "order": 4,
+        "isVisible": true
+      },
+      {
+        "img": "https://storage.googleapis.com/adp_assets/images/4/mobiletech-other.png",
+        "title": "Other",
+        "order": 5,
+        "isVisible": true
+      }
+    ],
+    "isVisible": true
+  },
+  "section3": {
+    "title": "Trade In Your Device and Save on a New One",
+    "content": "If you’re in the market for a new device, our certified pre-owned devices are the most economical solution especially when compared to financing a device alongside a plan through a carrier. Not only can you trade in your used devices no matter what the condition for credit towards a brand new device, or even the cost of a repair. Our pricing is always competitive to Rogers or Bell’s trade-in prices and while they may give you credit towards a bill, we can offer you either cash or credit towards the cost of anything in store. In addition, the remaining balance can be financed as low as 0%, which is",
+    "isVisible": true,
+    "imgLink": "https://storage.googleapis.com/adp_assets/images/common/trade-phone-1.svg"
+  },
+  "section4": {
+    "title": "Buy a New or Used Device with our 12 Month Warranty",
+    "content": "All the mobile devices we sell are function tested for all 60 essential functions and graded for aesthetic condition. All devices are backed by a 12 month warranty which covers any defects or functionality fails, not physical or liquid damage. Your IMEI is fully guaranteed and you will absolutely not run into any blacklist or cellular connectivity issues worldwide. Our aim is to make buying a certified pre-owned device as seamless, painless and ultimately enjoyable as it should be. No more greasy Kijiji sales, no more sketchy Facebook meetups - get the best price, best devices and best service with Mobile Tech Lab’s devices.",
+    "isVisible": true,
+    "cards": [
+      {
+        "img": "https://storage.googleapis.com/adp_dev_images/products/1/iphone-12.png",
+        "title": "iPhone 12",
+        "subtitle": "As low as",
+        "price": "$897",
+        "order": 1,
+        "isVisible": true
+      },
+      {
+        "img": "https://storage.googleapis.com/adp_dev_images/products/1/iphone-5.png",
+        "title": "iPhone 5",
+        "subtitle": "As low as",
+        "price": "$897",
+        "order": 2,
+        "isVisible": true
+      },
+      {
+        "img": "https://storage.googleapis.com/adp_dev_images/products/1/iphone-5s.png",
+        "title": "iPhone 5s",
+        "subtitle": "As low as",
+        "price": "$897",
+        "order": 3,
+        "isVisible": true
+      },
+      {
+        "img": "https://storage.googleapis.com/adp_dev_images/products/1/iphone-7-plus.png",
+        "title": "iPhone 7 Plus",
+        "subtitle": "As low as",
+        "price": "$897",
+        "order": 4,
+        "isVisible": true
+      },
+      {
+        "img": "https://storage.googleapis.com/adp_dev_images/products/1/iphone-8.png",
+        "title": "iPhone 8",
+        "subtitle": "As low as",
+        "price": "$897",
+        "order": 5,
+        "isVisible": true
+      }
+    ]
+  },
+  "section5": {
+    "title": "See Why Customers Love Mobile Tech Lab",
+    "reviews": [
+      {
+        "order": 1,
+        "score": 5,
+        "day": "2021-04-08",
+        "content": "I needed a new battery for my iphone 6. After contacting several places who all told me the next available appointment was more than a week away, I called Mobile Tech on Corydon. Within 2 hours, my new battery was installed and ready for pickup. Great service and friendly staff.",
+        "reviewer": "Pepo",
+        "isVisible": true
+      },
+      {
+        "order": 2,
+        "score": 5,
+        "day": "2020-12-08",
+        "content": "Very glad I found this place! I send a request through FB to couple places asking for an estimate of the screen replacement and Mobile Tech Lab not only has automated estimation but they gave me a call almost right away to confirm that they have a part and it would be done in ... more",
+        "reviewer": "Elena Kurakin",
+        "isVisible": true
+      },
+      {
+        "order": 3,
+        "score": 5,
+        "day": "2020-05-05",
+        "content": "My experience was excepion really amazing people working there with reasonable prices for fixing electronics, they fix your electronics with a super reasonable time frame,.would highly recommend this company!",
+        "reviewer": "Jessica Johnson",
+        "isVisible": true
+      }
+    ]
+  },
+  "commingsoon": {
+    "title": "",
+    "subtitle": "",
+    "flag": false
+  }
+}

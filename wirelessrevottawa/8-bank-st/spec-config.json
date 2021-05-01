@@ -1,0 +1,144 @@
+{
+  "headData": {
+    "title": "Specific Location | WirelessRev Ottawa - Bank St",
+    "metaList": [
+      {
+        "name": "description",
+        "content": "Specific Location Page for WirelessRev Ottawa Bank St"
+      }
+    ]
+  },
+  "section1": {
+    "title": "Victoria BC’s Fastest Phone, Tablet & Laptop Repair",
+    "subTitle": "3388 Bank St.",
+    "locationExtraNote": {
+      "title": "WirelessRev Ottawa - Bank St",
+      "content": "* The closest major intersection is Bank St, and we’re located across from the Safeway in the Tuxedo Edge stripmall next to TD."
+    },
+    "displayMap": true
+  },
+  "section2": {
+    "title": "Get Your Device Fixed Fast & Reliably",
+    "content": "WirelessRev is Ottawa’s best choice for your device repair needs. Whether you just need a fresh battery or your phone seems beyond economical repair, bring it into our shop so we can take a look. When your carrier or manufacturer can’t help we’re the best option in Ottawa for all sorts of repairs. From obscure or older Android models to Macbooks and Apple iPhone’s we can get your phone or tablet working again when others have deemed it unfixable. Looking for a repair quote for a specific issue? Use the online repair quote link on this page to request a quote or give us a call at 613-723-6363 for a quick price quote or to answer any questions you may have.",
+    "categories": [
+      {
+        "img": "https://storage.googleapis.com/adp_assets/images/8/wireless-mobile.png",
+        "title": "Cellphone",
+        "order": 1,
+        "isVisible": true
+      },
+      {
+        "img": "https://storage.googleapis.com/adp_assets/images/8/wireless-tablet.png",
+        "title": "Tablet",
+        "order": 2,
+        "isVisible": true
+      },
+      {
+        "img": "https://storage.googleapis.com/adp_assets/images/8/wireless-computer.png",
+        "title": "Computer",
+        "order": 3,
+        "isVisible": true
+      },
+      {
+        "img": "https://storage.googleapis.com/adp_assets/images/8/wireless-game.png",
+        "title": "Console",
+        "order": 4,
+        "isVisible": true
+      },
+      {
+        "img": "https://storage.googleapis.com/adp_assets/images/8/wireless-other.png",
+        "title": "Other",
+        "order": 5,
+        "isVisible": true
+      }
+    ],
+    "isVisible": true
+  },
+  "section3": {
+    "title": "Trade In Your Device and Save on a New One",
+    "content": "Your older or broken devices are the key to getting an even better deal on a certified pre-owned device. If you’re hanging onto a phone or tablet that may be too expensive to fix or just not worth it for other reasons, definitely bring it by and we can give you competitive trade-in credit towards a repair, accessory or device. Pricing does depend on the model, aesthetic condition and subject to a full function test - front camera, back camera, WiFi, battery, bluetooth, etc.",
+    "isVisible": true,
+    "imgLink": "https://storage.googleapis.com/adp_assets/images/common/trade-phone-1.svg"
+  },
+  "section4": {
+    "title": "Buy a New or Used Device with our 12 Month Warranty",
+    "content": "Our in store devices range from brand new sealed units to certified pre-owned units that have passed a full 60 point inspection and are backed by a lifetime IMEI guarantee. Don’t bother with sketchy Facebook or Kijii phone purchases which give you zero protection against any functional defects, blacklist issues, iCloud account locks or anything that would make the purchase a problem or leave you with a useless phone.",
+    "isVisible": true,
+    "cards": [
+      {
+        "img": "https://storage.googleapis.com/adp_dev_images/products/1/iphone-12.png",
+        "title": "iPhone 12",
+        "subtitle": "As low as",
+        "price": "$897",
+        "order": 1,
+        "isVisible": true
+      },
+      {
+        "img": "https://storage.googleapis.com/adp_dev_images/products/1/iphone-5.png",
+        "title": "iPhone 5",
+        "subtitle": "As low as",
+        "price": "$897",
+        "order": 2,
+        "isVisible": true
+      },
+      {
+        "img": "https://storage.googleapis.com/adp_dev_images/products/1/iphone-5s.png",
+        "title": "iPhone 5s",
+        "subtitle": "As low as",
+        "price": "$897",
+        "order": 3,
+        "isVisible": true
+      },
+      {
+        "img": "https://storage.googleapis.com/adp_dev_images/products/1/iphone-7-plus.png",
+        "title": "iPhone 7 Plus",
+        "subtitle": "As low as",
+        "price": "$897",
+        "order": 4,
+        "isVisible": true
+      },
+      {
+        "img": "https://storage.googleapis.com/adp_dev_images/products/1/iphone-8.png",
+        "title": "iPhone 8",
+        "subtitle": "As low as",
+        "price": "$897",
+        "order": 5,
+        "isVisible": true
+      }
+    ]
+  },
+  "section5": {
+    "title": "See Why Customers Love Mobile Tech Lab",
+    "reviews": [
+      {
+        "order": 1,
+        "score": 5,
+        "day": "2021-04-08",
+        "content": "I needed a new battery for my iphone 6. After contacting several places who all told me the next available appointment was more than a week away, I called Mobile Tech on Corydon. Within 2 hours, my new battery was installed and ready for pickup. Great service and friendly staff.",
+        "reviewer": "Pepo",
+        "isVisible": true
+      },
+      {
+        "order": 2,
+        "score": 5,
+        "day": "2020-12-08",
+        "content": "Very glad I found this place! I send a request through FB to couple places asking for an estimate of the screen replacement and Mobile Tech Lab not only has automated estimation but they gave me a call almost right away to confirm that they have a part and it would be done in ... more",
+        "reviewer": "Elena Kurakin",
+        "isVisible": true
+      },
+      {
+        "order": 3,
+        "score": 5,
+        "day": "2020-05-05",
+        "content": "My experience was excepion really amazing people working there with reasonable prices for fixing electronics, they fix your electronics with a super reasonable time frame,.would highly recommend this company!",
+        "reviewer": "Jessica Johnson",
+        "isVisible": true
+      }
+    ]
+  },
+  "commingsoon": {
+    "title": "",
+    "subtitle": "",
+    "flag": false
+  }
+}

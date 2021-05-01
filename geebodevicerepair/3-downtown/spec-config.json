@@ -1,0 +1,144 @@
+{
+  "headData": {
+    "title": "Specific Location | Geebo Device Repair - Gaston Road",
+    "metaList": [
+      {
+        "name": "description",
+        "content": "Specific Location Page for Geebo Device Repair Gaston Road"
+      }
+    ]
+  },
+  "section1": {
+    "title": "Downtown Halifax’s Fastest Phone, Tablet & Laptop Repair",
+    "subTitle": "4 Gaston Road",
+    "locationExtraNote": {
+      "title": "Geebo Device Repair - Gaston Road",
+      "content": "* The closest major intersection is Gaston Road, and we’re located across from the Safeway in the Tuxedo Edge stripmall next to TD."
+    },
+    "displayMap": true
+  },
+  "section2": {
+    "title": "Get Your Device Fixed Fast & Reliably",
+    "content": "Geebo is Atlantic Canada’s biggest mobile device repair locations and our downtown Halifax location is centrally located to make sure we’re able to service those who work - and play - in the middle of the city. From phones with poor battery life, to cracked or smashed screens, we can definitely get your device up and running. Open Monday to Saturday 10am-6pm, we’re often able to turn around devices the same day, especially for common iPhone, iPad and Samsung issues which we always stock popular model components. Curious what it’s going to cost for your specific issue or a specific issue? Use the online repair quote link on this page to request a quote or give us a call at 902-717-4349 extension 1 for a quick price quote or to answer anything else.",
+    "categories": [
+      {
+        "img": "https://storage.googleapis.com/adp_assets/images/3/geebo-mobile.png",
+        "title": "Cellphone",
+        "order": 1,
+        "isVisible": true
+      },
+      {
+        "img": "https://storage.googleapis.com/adp_assets/images/3/geebo-tablet.png",
+        "title": "Tablet",
+        "order": 2,
+        "isVisible": true
+      },
+      {
+        "img": "https://storage.googleapis.com/adp_assets/images/3/geebo-computer.png",
+        "title": "Computer",
+        "order": 3,
+        "isVisible": true
+      },
+      {
+        "img": "https://storage.googleapis.com/adp_assets/images/3/geebo-game.png",
+        "title": "Console",
+        "order": 4,
+        "isVisible": true
+      },
+      {
+        "img": "https://storage.googleapis.com/adp_assets/images/3/geebo-other.png",
+        "title": "Other",
+        "order": 5,
+        "isVisible": true
+      }
+    ],
+    "isVisible": true
+  },
+  "section3": {
+    "title": "Trade In Your Device and Save on a New One",
+    "content": "If you’ve got outdated, broken or unwanted cell phones - we want them! Bring in your older devices which may be beyond economical repair for either a discount on another repair, accessory or cash. Carriers like Rogers and Bell will often give you minimal discounts on either your bill, and sometimes even $0. Before you toss out a seemingly useless device, definitely give us a call!",
+    "isVisible": true,
+    "imgLink": "https://storage.googleapis.com/adp_assets/images/common/trade-phone-1.svg"
+  },
+  "section4": {
+    "title": "Buy a New or Used Device with our 12 Month Warranty",
+    "content": "We not only fix phones, tablets and laptops, but we have a great selection of certified pre-owned and new devices available both in store and for delivery throughout Nova Scotia. Avoid the headache of trying to decipher if you’re going to be scammed or not buying a device off Kijiji or an overpriced carrier deal and visit our downtown Halifax location to see what we have in stock. We have devices for every platform - Android or iOS - and for every budget.",
+    "isVisible": true,
+    "cards": [
+      {
+        "img": "https://storage.googleapis.com/adp_dev_images/products/1/iphone-12.png",
+        "title": "iPhone 12",
+        "subtitle": "As low as",
+        "price": "$897",
+        "order": 1,
+        "isVisible": true
+      },
+      {
+        "img": "https://storage.googleapis.com/adp_dev_images/products/1/iphone-5.png",
+        "title": "iPhone 5",
+        "subtitle": "As low as",
+        "price": "$897",
+        "order": 2,
+        "isVisible": true
+      },
+      {
+        "img": "https://storage.googleapis.com/adp_dev_images/products/1/iphone-5s.png",
+        "title": "iPhone 5s",
+        "subtitle": "As low as",
+        "price": "$897",
+        "order": 3,
+        "isVisible": true
+      },
+      {
+        "img": "https://storage.googleapis.com/adp_dev_images/products/1/iphone-7-plus.png",
+        "title": "iPhone 7 Plus",
+        "subtitle": "As low as",
+        "price": "$897",
+        "order": 4,
+        "isVisible": true
+      },
+      {
+        "img": "https://storage.googleapis.com/adp_dev_images/products/1/iphone-8.png",
+        "title": "iPhone 8",
+        "subtitle": "As low as",
+        "price": "$897",
+        "order": 5,
+        "isVisible": true
+      }
+    ]
+  },
+  "section5": {
+    "title": "See Why Customers Love Mobile Tech Lab",
+    "reviews": [
+      {
+        "order": 1,
+        "score": 5,
+        "day": "2021-04-08",
+        "content": "I needed a new battery for my iphone 6. After contacting several places who all told me the next available appointment was more than a week away, I called Mobile Tech on Corydon. Within 2 hours, my new battery was installed and ready for pickup. Great service and friendly staff.",
+        "reviewer": "Pepo",
+        "isVisible": true
+      },
+      {
+        "order": 2,
+        "score": 5,
+        "day": "2020-12-08",
+        "content": "Very glad I found this place! I send a request through FB to couple places asking for an estimate of the screen replacement and Mobile Tech Lab not only has automated estimation but they gave me a call almost right away to confirm that they have a part and it would be done in ... more",
+        "reviewer": "Elena Kurakin",
+        "isVisible": true
+      },
+      {
+        "order": 3,
+        "score": 5,
+        "day": "2020-05-05",
+        "content": "My experience was excepion really amazing people working there with reasonable prices for fixing electronics, they fix your electronics with a super reasonable time frame,.would highly recommend this company!",
+        "reviewer": "Jessica Johnson",
+        "isVisible": true
+      }
+    ]
+  },
+  "commingsoon": {
+    "title": "",
+    "subtitle": "",
+    "flag": false
+  }
+}

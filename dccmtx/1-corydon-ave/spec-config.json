@@ -1,0 +1,144 @@
+{
+  "headData": {
+    "title": "Specific Location | Northtech Lab - Corydon",
+    "metaList": [
+      {
+        "name": "description",
+        "content": "Specific Location Page for Northtech Lab Corydon Ave area."
+      }
+    ]
+  },
+  "section1": {
+    "title": "Winnipeg’s Fastest Phone, Tablet & Laptop Repair",
+    "subTitle": "Unit F - 2020 Corydon Avenue, Winnipeg",
+    "locationExtraNote": {
+      "title": "Mobile Tech Lab - Corydon",
+      "content": "* The closest major intersection is Kenaston and Corydon, and we’re located across from the Safeway in the Tuxedo Edge stripmall next to TD."
+    },
+    "displayMap": true
+  },
+  "section2": {
+    "title": "Get Your Device Fixed Fast & Reliably",
+    "content": "Conveniently located in Tuxedo / River Heights, Mobile Tech Lab’s flagship location provides the fastest and most advanced cell phone, tablet, laptop and game console repair services anywhere in Winnipeg. If Apple, Samsung or your manufacturer or carrier has told you your device is damaged beyond repair, definitely give us a call or use the online quote widget on this site to get in touch with us. We offer curbside pickup, mail-in and walk-in services and our Corydon storefront is COVID-safe with mandatory masks and limited in store capacity as per City of Winnipeg guidelines. ",
+    "categories": [
+      {
+        "img": "https://storage.googleapis.com/adp_dev_assets/images/1/northtech-mobile.png",
+        "title": "Cellphone",
+        "order": 1,
+        "isVisible": true
+      },
+      {
+        "img": "https://storage.googleapis.com/adp_dev_assets/images/1/northtech-tablet.png",
+        "title": "Tablet",
+        "order": 2,
+        "isVisible": true
+      },
+      {
+        "img": "https://storage.googleapis.com/adp_dev_assets/images/1/northtech-computer.png",
+        "title": "Computer",
+        "order": 3,
+        "isVisible": true
+      },
+      {
+        "img": "https://storage.googleapis.com/adp_dev_assets/images/1/northtech-game.png",
+        "title": "Console",
+        "order": 4,
+        "isVisible": true
+      },
+      {
+        "img": "https://storage.googleapis.com/adp_dev_assets/images/1/northtech-other.png",
+        "title": "Other",
+        "order": 5,
+        "isVisible": true
+      }
+    ],
+    "isVisible": true
+  },
+  "section3": {
+    "title": "Trade In Your Device and Save on a New One",
+    "content": "We’re proud to offer the most competitive prices for used, damaged or broken device trade-in in the city. Get a discount on a  certified pre-owned device that has passed a full 60-point function test and battery health test when you trade in your old device, whether it’s damaged or not. Purchasing a new device doesn’t have to be expensive or painful, we offer a streamlined process whether online or instore at our Corydon Ave storefront. ",
+    "isVisible": true,
+    "imgLink": "https://storage.googleapis.com/adp_dev_assets/images/common/trade-phone-1.svg"
+  },
+  "section4": {
+    "title": "Buy a New or Used Device with our 12 Month Warranty",
+    "content": "All Mobile Tech Lab devices are meticulously tested and graded before being available for sale. We stand behind all our devices with a one year warranty and lifetime IMEI guarantee. Our devices are not repaired or purchased off Kijiji or Facebook, and instead come from verified carrier auctions in the States. We then sell the best condition and tested devices instore at competitive rates and pass the savings onto you. ",
+    "isVisible": true,
+    "cards": [
+      {
+        "img": "https://storage.googleapis.com/adp_dev_images/products/1/iphone-12.png",
+        "title": "iPhone 12",
+        "subtitle": "As low as",
+        "price": "$897",
+        "order": 1,
+        "isVisible": true
+      },
+      {
+        "img": "https://storage.googleapis.com/adp_dev_images/products/1/iphone-5.png",
+        "title": "iPhone 5",
+        "subtitle": "As low as",
+        "price": "$897",
+        "order": 2,
+        "isVisible": true
+      },
+      {
+        "img": "https://storage.googleapis.com/adp_dev_images/products/1/iphone-5s.png",
+        "title": "iPhone 5s",
+        "subtitle": "As low as",
+        "price": "$897",
+        "order": 3,
+        "isVisible": true
+      },
+      {
+        "img": "https://storage.googleapis.com/adp_dev_images/products/1/iphone-7-plus.png",
+        "title": "iPhone 7 Plus",
+        "subtitle": "As low as",
+        "price": "$897",
+        "order": 4,
+        "isVisible": true
+      },
+      {
+        "img": "https://storage.googleapis.com/adp_dev_images/products/1/iphone-8.png",
+        "title": "iPhone 8",
+        "subtitle": "As low as",
+        "price": "$897",
+        "order": 5,
+        "isVisible": true
+      }
+    ]
+  },
+  "section5": {
+    "title": "See Why Customers Love Mobile Tech Lab",
+    "reviews": [
+      {
+        "order": 1,
+        "score": 5,
+        "day": "2021-04-08",
+        "content": "I needed a new battery for my iphone 6. After contacting several places who all told me the next available appointment was more than a week away, I called Mobile Tech on Corydon. Within 2 hours, my new battery was installed and ready for pickup. Great service and friendly staff.",
+        "reviewer": "Pepo",
+        "isVisible": true
+      },
+      {
+        "order": 2,
+        "score": 5,
+        "day": "2020-12-08",
+        "content": "Very glad I found this place! I send a request through FB to couple places asking for an estimate of the screen replacement and Mobile Tech Lab not only has automated estimation but they gave me a call almost right away to confirm that they have a part and it would be done in ... more",
+        "reviewer": "Elena Kurakin",
+        "isVisible": true
+      },
+      {
+        "order": 3,
+        "score": 5,
+        "day": "2020-05-05",
+        "content": "My experience was excepion really amazing people working there with reasonable prices for fixing electronics, they fix your electronics with a super reasonable time frame,.would highly recommend this company!",
+        "reviewer": "Jessica Johnson",
+        "isVisible": true
+      }
+    ]
+  },
+  "commingsoon": {
+    "title": "",
+    "subtitle": "",
+    "flag": false
+  }
+}

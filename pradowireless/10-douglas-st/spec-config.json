@@ -1,0 +1,144 @@
+{
+  "headData": {
+    "title": "Specific Location | Prado Wireless - Douglas St",
+    "metaList": [
+      {
+        "name": "description",
+        "content": "Specific Location Page for Prado Wireless Douglas St"
+      }
+    ]
+  },
+  "section1": {
+    "title": "Victoria BC’s Fastest Phone, Tablet & Laptop Repair",
+    "subTitle": "3388 Douglas St.",
+    "locationExtraNote": {
+      "title": "Prado Wireless - Douglas St",
+      "content": "* The closest major intersection is Douglas St, and we’re located across from the Safeway in the Tuxedo Edge stripmall next to TD."
+    },
+    "displayMap": true
+  },
+  "section2": {
+    "title": "Get Your Device Fixed Fast & Reliably",
+    "content": "Prado Wireless is Victoria’s best choice for phone, tablet and mobile device repair. If you’ve got a broken screen, water damaged device, faulty charge port or any other functional defect don’t give up on your device. Bring it in, or use the quoting widget on this page for a price quote based on your model and the issue you’re having. We’re also able to quickly diagnose your phone or tablet if we’re unaware of what the issue is. Often times this is the case when a phone just won’t turn on and we’d need to try multiple routes to get it going again Local Victoria residents with a damaged smartphone, iPhone, iPad or tablet, use the online booking link on this page to get a quote on one or multiple device repairs. We have walk-in and curbside pickup options available and our Douglas St location follows all local COVID safety protocols.",
+    "categories": [
+      {
+        "img": "https://storage.googleapis.com/adp_assets/images/10/prado-mobile.png",
+        "title": "Cellphone",
+        "order": 1,
+        "isVisible": true
+      },
+      {
+        "img": "https://storage.googleapis.com/adp_assets/images/10/prado-tablet.png",
+        "title": "Tablet",
+        "order": 2,
+        "isVisible": true
+      },
+      {
+        "img": "https://storage.googleapis.com/adp_assets/images/10/prado-computer.png",
+        "title": "Computer",
+        "order": 3,
+        "isVisible": true
+      },
+      {
+        "img": "https://storage.googleapis.com/adp_assets/images/10/prado-game.png",
+        "title": "Console",
+        "order": 4,
+        "isVisible": true
+      },
+      {
+        "img": "https://storage.googleapis.com/adp_assets/images/10/prado-other.png",
+        "title": "Other",
+        "order": 5,
+        "isVisible": true
+      }
+    ],
+    "isVisible": true
+  },
+  "section3": {
+    "title": "Trade In Your Device and Save on a New One",
+    "content": "Your old or broken cell phones and tablets are worth money and we’ll gladly give you a discount on any repair, accessory or pre-owned device. While carriers may offer you bill credit only when you sign up for a long contract, we can take any of your older devices and offer cash or store credit - even if the device is damaged, deprecated or non-functioning.",
+    "isVisible": true,
+    "imgLink": "https://storage.googleapis.com/adp_assets/images/common/trade-phone-1.svg"
+  },
+  "section4": {
+    "title": "Buy a New or Used Device with our 12 Month Warranty",
+    "content": "All our devices are sold with a solid 12 month warranty once they pass our strict 60 point test which makes sure all the basic functions work as they should. This goes for the front camera, back camera, charging port, full LCD or OLED touch screen functionality - all the stuff you don’t have time to test when buying a phone off other unregulated platforms like Facebook or Kijiji. Save yourself the  unease and stress of buying an untested and unbacked device - visit us today to see our great selection of certified pre-owned mobile devices at every price point.",
+    "isVisible": true,
+    "cards": [
+      {
+        "img": "https://storage.googleapis.com/adp_dev_images/products/1/iphone-12.png",
+        "title": "iPhone 12",
+        "subtitle": "As low as",
+        "price": "$897",
+        "order": 1,
+        "isVisible": true
+      },
+      {
+        "img": "https://storage.googleapis.com/adp_dev_images/products/1/iphone-5.png",
+        "title": "iPhone 5",
+        "subtitle": "As low as",
+        "price": "$897",
+        "order": 2,
+        "isVisible": true
+      },
+      {
+        "img": "https://storage.googleapis.com/adp_dev_images/products/1/iphone-5s.png",
+        "title": "iPhone 5s",
+        "subtitle": "As low as",
+        "price": "$897",
+        "order": 3,
+        "isVisible": true
+      },
+      {
+        "img": "https://storage.googleapis.com/adp_dev_images/products/1/iphone-7-plus.png",
+        "title": "iPhone 7 Plus",
+        "subtitle": "As low as",
+        "price": "$897",
+        "order": 4,
+        "isVisible": true
+      },
+      {
+        "img": "https://storage.googleapis.com/adp_dev_images/products/1/iphone-8.png",
+        "title": "iPhone 8",
+        "subtitle": "As low as",
+        "price": "$897",
+        "order": 5,
+        "isVisible": true
+      }
+    ]
+  },
+  "section5": {
+    "title": "See Why Customers Love Mobile Tech Lab",
+    "reviews": [
+      {
+        "order": 1,
+        "score": 5,
+        "day": "2021-04-08",
+        "content": "I needed a new battery for my iphone 6. After contacting several places who all told me the next available appointment was more than a week away, I called Mobile Tech on Corydon. Within 2 hours, my new battery was installed and ready for pickup. Great service and friendly staff.",
+        "reviewer": "Pepo",
+        "isVisible": true
+      },
+      {
+        "order": 2,
+        "score": 5,
+        "day": "2020-12-08",
+        "content": "Very glad I found this place! I send a request through FB to couple places asking for an estimate of the screen replacement and Mobile Tech Lab not only has automated estimation but they gave me a call almost right away to confirm that they have a part and it would be done in ... more",
+        "reviewer": "Elena Kurakin",
+        "isVisible": true
+      },
+      {
+        "order": 3,
+        "score": 5,
+        "day": "2020-05-05",
+        "content": "My experience was excepion really amazing people working there with reasonable prices for fixing electronics, they fix your electronics with a super reasonable time frame,.would highly recommend this company!",
+        "reviewer": "Jessica Johnson",
+        "isVisible": true
+      }
+    ]
+  },
+  "commingsoon": {
+    "title": "",
+    "subtitle": "",
+    "flag": false
+  }
+}
