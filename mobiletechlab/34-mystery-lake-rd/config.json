@@ -1,52 +1,52 @@
 {
   "headData": {
-    "title": "Specific Location | Prado Wireless - Douglas St",
+    "title": "Mobile Tech Lab Thompson - 1530-300 Mystery Lake Road",
     "metaList": [
       {
         "name": "description",
-        "content": "Specific Location Page for Prado Wireless Douglas St"
+        "content": "Opening in Thompson this summer."
       }
     ]
   },
   "section1": {
-    "title": "Victoria BC’s Fastest Phone, Tablet & Laptop Repair",
-    "subTitle": "3388 Douglas St.",
+    "title": "",
+    "subTitle": "",
     "locationExtraNote": {
-      "title": "Prado Wireless - Douglas St",
-      "content": "* The closest major intersection is Douglas St, and we’re located across from the Safeway in the Tuxedo Edge stripmall next to TD."
+      "title": "",
+      "content": ""
     },
     "displayMap": true
   },
   "section2": {
-    "title": "Get Your Device Fixed Fast & Reliably",
-    "content": "Prado Wireless is Victoria’s best choice for phone, tablet and mobile device repair. If you’ve got a broken screen, water damaged device, faulty charge port or any other functional defect don’t give up on your device. Bring it in, or use the quoting widget on this page for a price quote based on your model and the issue you’re having. We’re also able to quickly diagnose your phone or tablet if we’re unaware of what the issue is. Often times this is the case when a phone just won’t turn on and we’d need to try multiple routes to get it going again Local Victoria residents with a damaged smartphone, iPhone, iPad or tablet, use the online booking link on this page to get a quote on one or multiple device repairs. We have walk-in and curbside pickup options available and our Douglas St location follows all local COVID safety protocols.",
+    "title": "",
+    "content": "",
     "categories": [
       {
-        "img": "https://storage.googleapis.com/adp_assets/images/10/prado-mobile.png",
+        "img": "https://storage.googleapis.com/adp_assets/images/4/mobiletech-mobile.png",
         "title": "Cellphone",
         "order": 1,
         "isVisible": true
       },
       {
-        "img": "https://storage.googleapis.com/adp_assets/images/10/prado-tablet.png",
+        "img": "https://storage.googleapis.com/adp_assets/images/4/mobiletech-tablet.png",
         "title": "Tablet",
         "order": 2,
         "isVisible": true
       },
       {
-        "img": "https://storage.googleapis.com/adp_assets/images/10/prado-computer.png",
+        "img": "https://storage.googleapis.com/adp_assets/images/4/mobiletech-computer.png",
         "title": "Computer",
         "order": 3,
         "isVisible": true
       },
       {
-        "img": "https://storage.googleapis.com/adp_assets/images/10/prado-game.png",
+        "img": "https://storage.googleapis.com/adp_assets/images/4/mobiletech-game.png",
         "title": "Console",
         "order": 4,
         "isVisible": true
       },
       {
-        "img": "https://storage.googleapis.com/adp_assets/images/10/prado-other.png",
+        "img": "https://storage.googleapis.com/adp_assets/images/4/mobiletech-other.png",
         "title": "Other",
         "order": 5,
         "isVisible": true
@@ -56,13 +56,13 @@
   },
   "section3": {
     "title": "Trade In Your Device and Save on a New One",
-    "content": "Your old or broken cell phones and tablets are worth money and we’ll gladly give you a discount on any repair, accessory or pre-owned device. While carriers may offer you bill credit only when you sign up for a long contract, we can take any of your older devices and offer cash or store credit - even if the device is damaged, deprecated or non-functioning.",
+    "content": "If you’re in the market for a new device, our certified pre-owned devices are the most economical solution especially when compared to financing a device alongside a plan through a carrier. Not only can you trade in your used devices no matter what the condition for credit towards a brand new device, or even the cost of a repair. Our pricing is always competitive to Rogers or Bell’s trade-in prices and while they may give you credit towards a bill, we can offer you either cash or credit towards the cost of anything in store. In addition, the remaining balance can be financed as low as 0%, which is",
     "isVisible": true,
     "imgLink": "https://storage.googleapis.com/adp_assets/images/common/trade-phone-1.svg"
   },
   "section4": {
     "title": "Buy a New or Used Device with our 12 Month Warranty",
-    "content": "All our devices are sold with a solid 12 month warranty once they pass our strict 60 point test which makes sure all the basic functions work as they should. This goes for the front camera, back camera, charging port, full LCD or OLED touch screen functionality - all the stuff you don’t have time to test when buying a phone off other unregulated platforms like Facebook or Kijiji. Save yourself the  unease and stress of buying an untested and unbacked device - visit us today to see our great selection of certified pre-owned mobile devices at every price point.",
+    "content": "All the mobile devices we sell are function tested for all 60 essential functions and graded for aesthetic condition. All devices are backed by a 12 month warranty which covers any defects or functionality fails, not physical or liquid damage. Your IMEI is fully guaranteed and you will absolutely not run into any blacklist or cellular connectivity issues worldwide. Our aim is to make buying a certified pre-owned device as seamless, painless and ultimately enjoyable as it should be. No more greasy Kijiji sales, no more sketchy Facebook meetups - get the best price, best devices and best service with Mobile Tech Lab’s devices.",
     "isVisible": true,
     "cards": [
       {
@@ -137,8 +137,8 @@
     ]
   },
   "commingsoon": {
-    "title": "",
-    "subtitle": "",
-    "flag": false
+    "title": "Opening in Thompson this summer!",
+    "subtitle": "In the City Centre Mall 1530 - 300 Mystery Lake Road",
+    "flag": true
   }
 }

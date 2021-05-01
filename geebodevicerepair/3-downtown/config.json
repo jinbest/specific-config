@@ -1,52 +1,52 @@
 {
   "headData": {
-    "title": "Specific Location | NanoTech - Avonhurst Dr",
+    "title": "Geebo Device Repair - 2274 Gottingen St",
     "metaList": [
       {
         "name": "description",
-        "content": "Specific Location Page for NanoTech Avonhurst Dr"
+        "content": "Conveniently located in downtown Halifax, Geebo Device Repair is your source for fast and affordable phone, tablet and laptop repair."
       }
     ]
   },
   "section1": {
-    "title": "Regina’s Fastest Phone, Tablet & Laptop Repair",
-    "subTitle": "2747 Avonhurst Dr",
+    "title": "Downtown Halifax’s Fastest Phone, Tablet & Laptop Repair",
+    "subTitle": "4 Gaston Road",
     "locationExtraNote": {
-      "title": "NanoTech - Avonhurst Dr",
-      "content": "* The closest major intersection is Avonhurst Dr, and we’re located across from the Safeway in the Tuxedo Edge stripmall next to TD."
+      "title": "Geebo Device Repair - Gaston Road",
+      "content": "* The closest major intersection is Gaston Road, and we’re located across from the Safeway in the Tuxedo Edge stripmall next to TD."
     },
     "displayMap": true
   },
   "section2": {
     "title": "Get Your Device Fixed Fast & Reliably",
-    "content": "If you’ve got a broken phone, tablet or laptop in Regina, look no further than Nanotech Mobile for a fast, efficient and affordable repair. For consumers that are using an out-of-warranty device and either need an immediate fix like a broken screen, a cosmetic fix like a broken back glass or just a new battery we do it all. We stand behind all our repairs with a 30 day warranty and can often diagnose issues and turn them around the same day so you’ll experience minimal downtime with your device. If for whatever reason your phone or tablet repair is going to take longer, we’ll always communicate with you so you know what to expect. Curious if we can fix your issue? Use the online repair quote link on this page to request a quote or give us a call at 306-569-6266 for a quick price quote or to answer any questions.",
+    "content": "Geebo is Atlantic Canada’s biggest mobile device repair locations and our downtown Halifax location is centrally located to make sure we’re able to service those who work - and play - in the middle of the city. From phones with poor battery life, to cracked or smashed screens, we can definitely get your device up and running. Open Monday to Saturday 10am-6pm, we’re often able to turn around devices the same day, especially for common iPhone, iPad and Samsung issues which we always stock popular model components. Curious what it’s going to cost for your specific issue or a specific issue? Use the online repair quote link on this page to request a quote or give us a call at 902-717-4349 extension 1 for a quick price quote or to answer anything else.",
     "categories": [
       {
-        "img": "https://storage.googleapis.com/adp_assets/images/2/nanotech-mobile.png",
+        "img": "https://storage.googleapis.com/adp_assets/images/3/geebo-mobile.png",
         "title": "Cellphone",
         "order": 1,
         "isVisible": true
       },
       {
-        "img": "https://storage.googleapis.com/adp_assets/images/2/nanotech-tablet.png",
+        "img": "https://storage.googleapis.com/adp_assets/images/3/geebo-tablet.png",
         "title": "Tablet",
         "order": 2,
         "isVisible": true
       },
       {
-        "img": "https://storage.googleapis.com/adp_assets/images/2/nanotech-computer.png",
+        "img": "https://storage.googleapis.com/adp_assets/images/3/geebo-computer.png",
         "title": "Computer",
         "order": 3,
         "isVisible": true
       },
       {
-        "img": "https://storage.googleapis.com/adp_assets/images/2/nanotech-game.png",
+        "img": "https://storage.googleapis.com/adp_assets/images/3/geebo-game.png",
         "title": "Console",
         "order": 4,
         "isVisible": true
       },
       {
-        "img": "https://storage.googleapis.com/adp_assets/images/2/nanotech-other.png",
+        "img": "https://storage.googleapis.com/adp_assets/images/3/geebo-other.png",
         "title": "Other",
         "order": 5,
         "isVisible": true
@@ -56,13 +56,13 @@
   },
   "section3": {
     "title": "Trade In Your Device and Save on a New One",
-    "content": "We have competitive pricing on many brands and manufacturers of certified pre-owned and brand new mobile devices, however we can always take your old, broken, damaged or unwanted devices as trade-in credit towards the cost of a new or certified pre-owned device. While Rogers and Bell may only give you bill credit or store credit, and only take certain devices we can take almost any device and either pay out cash or credit towards another device or repair. Avoid the awkward Kijiji meetups and bring us your old devices for a discount on a new one!",
+    "content": "If you’ve got outdated, broken or unwanted cell phones - we want them! Bring in your older devices which may be beyond economical repair for either a discount on another repair, accessory or cash. Carriers like Rogers and Bell will often give you minimal discounts on either your bill, and sometimes even $0. Before you toss out a seemingly useless device, definitely give us a call!",
     "isVisible": true,
     "imgLink": "https://storage.googleapis.com/adp_assets/images/common/trade-phone-1.svg"
   },
   "section4": {
     "title": "Buy a New or Used Device with our 12 Month Warranty",
-    "content": "The devices we sell in store at Nanotech have undergone a 60 point inspection to ensure their functionality is good to go, their battery health is above 90%, and the device has been fully sanitized whether it’s being delivered or picked up. Our goal is to make getting your ideal upgraded device as painless as possible and avoiding the worry of getting a phone or tablet off a secondary market like Kijiji and experiencing issues down the road.",
+    "content": "We not only fix phones, tablets and laptops, but we have a great selection of certified pre-owned and new devices available both in store and for delivery throughout Nova Scotia. Avoid the headache of trying to decipher if you’re going to be scammed or not buying a device off Kijiji or an overpriced carrier deal and visit our downtown Halifax location to see what we have in stock. We have devices for every platform - Android or iOS - and for every budget.",
     "isVisible": true,
     "cards": [
       {

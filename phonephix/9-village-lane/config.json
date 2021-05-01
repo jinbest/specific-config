@@ -1,52 +1,52 @@
 {
   "headData": {
-    "title": "Specific Location | Geebo Device Repair - Spring Garden",
+    "title": "Phonephix - 1300 Village Lane #1",
     "metaList": [
       {
         "name": "description",
-        "content": "Specific Location Page for Geebo Device Repair Spring Garden"
+        "content": "We're Okotoks best choice for phone and tablet repair. Whether it's a cracked screen, poor battery life or damaged back glass, come see us today!"
       }
     ]
   },
   "section1": {
-    "title": "West Halifax’s Fastest Phone, Tablet & Laptop Repair",
-    "subTitle": "30 Farnham Gate Rd",
+    "title": "Okotoks Fastest Phone, Tablet & Laptop Repair",
+    "subTitle": "1300 Village Lane #11",
     "locationExtraNote": {
-      "title": "Geebo Device Repair - Spring Garden",
-      "content": "* The closest major intersection is Spring Garden, and we’re located across from the Safeway in the Tuxedo Edge stripmall next to TD."
+      "title": "PhonePhix - Village Lane",
+      "content": "* The closest major intersection is Village Lane, and we’re located across from the Safeway in the Tuxedo Edge stripmall next to TD."
     },
     "displayMap": true
   },
   "section2": {
     "title": "Get Your Device Fixed Fast & Reliably",
-    "content": "Geebo Device Repair is accessible and conveniently located at 30 Farnham Gate Rd next to the Rockingham Ridge Dental Centre and services all popular and less common makes and models of smartphones, tablets and even laptops. If your device is damaged beyond repair, or you're worried about recovering your data, don’t give up before coming to see us. Use the repair quote widget on this page to select your device, issue and supply your contact info and we can get you a price ASAP. Turnaround time for your device can vary depending on the severity and if multiple repairs are required, but we’ll always let you know beforehand what the ETA to get your phone, tablet or laptop back in your hands",
+    "content": "Phonephix is the most comprehensive destination in Okotoks for fast, efficient and professional iPhone, iPad and Android device repair. When your carrier or manufacturer has given up on servicing your device bring your phone into our shop and we can get it resolved. From batteries that don’t last the day or broken screens, and even phones just not turning on at all. We’re the best option for out of warranty repairs. For local residents with a broken cell phone or tablet, use the online booking link on this page to get a quote on one or multiple device repairs. We have walk-in, mail-in and curbside pickup options available.",
     "categories": [
       {
-        "img": "https://storage.googleapis.com/adp_assets/images/3/geebo-mobile.png",
+        "img": "https://storage.googleapis.com/adp_assets/images/9/phonephix-mobile.png",
         "title": "Cellphone",
         "order": 1,
         "isVisible": true
       },
       {
-        "img": "https://storage.googleapis.com/adp_assets/images/3/geebo-tablet.png",
+        "img": "https://storage.googleapis.com/adp_assets/images/9/phonephix-tablet.png",
         "title": "Tablet",
         "order": 2,
         "isVisible": true
       },
       {
-        "img": "https://storage.googleapis.com/adp_assets/images/3/geebo-computer.png",
+        "img": "https://storage.googleapis.com/adp_assets/images/9/phonephix-computer.png",
         "title": "Computer",
         "order": 3,
         "isVisible": true
       },
       {
-        "img": "https://storage.googleapis.com/adp_assets/images/3/geebo-game.png",
+        "img": "https://storage.googleapis.com/adp_assets/images/9/phonephix-game.png",
         "title": "Console",
         "order": 4,
         "isVisible": true
       },
       {
-        "img": "https://storage.googleapis.com/adp_assets/images/3/geebo-other.png",
+        "img": "https://storage.googleapis.com/adp_assets/images/9/phonephix-other.png",
         "title": "Other",
         "order": 5,
         "isVisible": true
@@ -56,13 +56,13 @@
   },
   "section3": {
     "title": "Trade In Your Device and Save on a New One",
-    "content": "We pride ourselves on always having the most competitive and affordable prices in Halifax, but you can get an even better deal on a repair or certified pre-owned device by trading in your old, broken or unwanted mobile devices. Even if your phone is broken, and just not cost-effective to fix, we can take it as trade in credit towards the cost of a certain repair or certified pre-owned device. We always match or even beat the trade in prices offered by the large carriers.",
+    "content": "Older devices can be traded in at our Okotoks location for either cash or credit towards either a repair or the cost of a new device. Skip the sketchy Facebook marketplace meetups, and get cash for your old, broken or unwanted devices by bringing it by our conveniently located Okotoks storefront. While carriers may only give you bill credit or accessory credit, we gladly pay out in cash or e-transfer.",
     "isVisible": true,
     "imgLink": "https://storage.googleapis.com/adp_assets/images/common/trade-phone-1.svg"
   },
   "section4": {
     "title": "Buy a New or Used Device with our 12 Month Warranty",
-    "content": "As a DeviceList Authorized Dealer, we are able to offer some of the best deals on certified pre-owned devices no matter what your budget, platform preference (Android, or iOS) as well as current celular carrier. Avoid the annoying unease of buying a used device off a platform like Facebook or any other unregulated marketplace. All our devices have passed a 60-point function test which makes sure everything from the auto-focus on the camera to the WiFi and bluetooth works perfectly, not to mention the aesthetic condition. No matter what device you're looking for, definitely reach out to Geebo first for the best deal!",
+    "content": "We’re proud to offer certified pre-owned devices for those looking to upgrade or maybe replace a device that’s beyond economical repair. The phones and tablets we have all pass 60-point functionality tests and aesthetically are in excellent condition. Battery duration is tested and the battery is replaced if needed, and backed up by a one year warranty that excludes all physical or liquid damage. For customers who can see themselves potentially breaking the screen on a phone due to accidents, we’d recommend asking about the accidental insurance coverage.",
     "isVisible": true,
     "cards": [
       {

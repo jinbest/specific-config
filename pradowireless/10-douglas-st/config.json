@@ -1,52 +1,52 @@
 {
   "headData": {
-    "title": "Specific Location | Geebo Device Repair - Clayton Park",
+    "title": "Locations | Prado Wireless",
     "metaList": [
       {
         "name": "description",
-        "content": "Specific Location Page for Geebo Device Repair Clayton Park"
+        "content": "Prado Wireless is Victoria BC's best choice for fast, efficient and affordable phone, tablet and laptop repair. Call or request a quote online "
       }
     ]
   },
   "section1": {
-    "title": "West Halifax’s Fastest Phone, Tablet & Laptop Repair",
-    "subTitle": "30 Farnham Gate Rd",
+    "title": "Victoria BC’s Fastest Phone, Tablet & Laptop Repair",
+    "subTitle": "3388 Douglas St.",
     "locationExtraNote": {
-      "title": "Geebo Device Repair - Clayton Park",
-      "content": "* The closest major intersection is Clayton Park, and we’re located across from the Safeway in the Tuxedo Edge stripmall next to TD."
+      "title": "Prado Wireless - Douglas St",
+      "content": "* The closest major intersection is Douglas St, and we’re located across from the Safeway in the Tuxedo Edge stripmall next to TD."
     },
     "displayMap": true
   },
   "section2": {
     "title": "Get Your Device Fixed Fast & Reliably",
-    "content": "Geebo Device Repair is accessible and conveniently located at 30 Farnham Gate Rd next to the Rockingham Ridge Dental Centre and services all popular and less common makes and models of smartphones, tablets and even laptops. If your device is damaged beyond repair, or you're worried about recovering your data, don’t give up before coming to see us. Use the repair quote widget on this page to select your device, issue and supply your contact info and we can get you a price ASAP. Turnaround time for your device can vary depending on the severity and if multiple repairs are required, but we’ll always let you know beforehand what the ETA to get your phone, tablet or laptop back in your hands",
+    "content": "Prado Wireless is Victoria’s best choice for phone, tablet and mobile device repair. If you’ve got a broken screen, water damaged device, faulty charge port or any other functional defect don’t give up on your device. Bring it in, or use the quoting widget on this page for a price quote based on your model and the issue you’re having. We’re also able to quickly diagnose your phone or tablet if we’re unaware of what the issue is. Often times this is the case when a phone just won’t turn on and we’d need to try multiple routes to get it going again Local Victoria residents with a damaged smartphone, iPhone, iPad or tablet, use the online booking link on this page to get a quote on one or multiple device repairs. We have walk-in and curbside pickup options available and our Douglas St location follows all local COVID safety protocols.",
     "categories": [
       {
-        "img": "https://storage.googleapis.com/adp_assets/images/3/geebo-mobile.png",
+        "img": "https://storage.googleapis.com/adp_assets/images/10/prado-mobile.png",
         "title": "Cellphone",
         "order": 1,
         "isVisible": true
       },
       {
-        "img": "https://storage.googleapis.com/adp_assets/images/3/geebo-tablet.png",
+        "img": "https://storage.googleapis.com/adp_assets/images/10/prado-tablet.png",
         "title": "Tablet",
         "order": 2,
         "isVisible": true
       },
       {
-        "img": "https://storage.googleapis.com/adp_assets/images/3/geebo-computer.png",
+        "img": "https://storage.googleapis.com/adp_assets/images/10/prado-computer.png",
         "title": "Computer",
         "order": 3,
         "isVisible": true
       },
       {
-        "img": "https://storage.googleapis.com/adp_assets/images/3/geebo-game.png",
+        "img": "https://storage.googleapis.com/adp_assets/images/10/prado-game.png",
         "title": "Console",
         "order": 4,
         "isVisible": true
       },
       {
-        "img": "https://storage.googleapis.com/adp_assets/images/3/geebo-other.png",
+        "img": "https://storage.googleapis.com/adp_assets/images/10/prado-other.png",
         "title": "Other",
         "order": 5,
         "isVisible": true
@@ -56,13 +56,13 @@
   },
   "section3": {
     "title": "Trade In Your Device and Save on a New One",
-    "content": "We pride ourselves on always having the most competitive and affordable prices in Halifax, but you can get an even better deal on a repair or certified pre-owned device by trading in your old, broken or unwanted mobile devices. Even if your phone is broken, and just not cost-effective to fix, we can take it as trade in credit towards the cost of a certain repair or certified pre-owned device. We always match or even beat the trade in prices offered by the large carriers.",
+    "content": "Your old or broken cell phones and tablets are worth money and we’ll gladly give you a discount on any repair, accessory or pre-owned device. While carriers may offer you bill credit only when you sign up for a long contract, we can take any of your older devices and offer cash or store credit - even if the device is damaged, deprecated or non-functioning.",
     "isVisible": true,
     "imgLink": "https://storage.googleapis.com/adp_assets/images/common/trade-phone-1.svg"
   },
   "section4": {
     "title": "Buy a New or Used Device with our 12 Month Warranty",
-    "content": "As a DeviceList Authorized Dealer, we are able to offer some of the best deals on certified pre-owned devices no matter what your budget, platform preference (Android, or iOS) as well as current celular carrier. Avoid the annoying unease of buying a used device off a platform like Facebook or any other unregulated marketplace. All our devices have passed a 60-point function test which makes sure everything from the auto-focus on the camera to the WiFi and bluetooth works perfectly, not to mention the aesthetic condition. No matter what device you're looking for, definitely reach out to Geebo first for the best deal!",
+    "content": "All our devices are sold with a solid 12 month warranty once they pass our strict 60 point test which makes sure all the basic functions work as they should. This goes for the front camera, back camera, charging port, full LCD or OLED touch screen functionality - all the stuff you don’t have time to test when buying a phone off other unregulated platforms like Facebook or Kijiji. Save yourself the  unease and stress of buying an untested and unbacked device - visit us today to see our great selection of certified pre-owned mobile devices at every price point.",
     "isVisible": true,
     "cards": [
       {

@@ -1,52 +1,52 @@
 {
   "headData": {
-    "title": "Specific Location | WirelessRev Ottawa - Bank St",
+    "title": "Geebo Device Repair - 5675 Spring Garden Rd",
     "metaList": [
       {
         "name": "description",
-        "content": "Specific Location Page for WirelessRev Ottawa Bank St"
+        "content": "Geebo Device Repair is centrally located on Spring Garden Road and can quickly fix your phone, tablet or computer even if it's out of warranty. Contact us today!"
       }
     ]
   },
   "section1": {
-    "title": "Victoria BC’s Fastest Phone, Tablet & Laptop Repair",
-    "subTitle": "3388 Bank St.",
+    "title": "West Halifax’s Fastest Phone, Tablet & Laptop Repair",
+    "subTitle": "30 Farnham Gate Rd",
     "locationExtraNote": {
-      "title": "WirelessRev Ottawa - Bank St",
-      "content": "* The closest major intersection is Bank St, and we’re located across from the Safeway in the Tuxedo Edge stripmall next to TD."
+      "title": "Geebo Device Repair - Spring Garden",
+      "content": "* The closest major intersection is Spring Garden, and we’re located across from the Safeway in the Tuxedo Edge stripmall next to TD."
     },
     "displayMap": true
   },
   "section2": {
     "title": "Get Your Device Fixed Fast & Reliably",
-    "content": "WirelessRev is Ottawa’s best choice for your device repair needs. Whether you just need a fresh battery or your phone seems beyond economical repair, bring it into our shop so we can take a look. When your carrier or manufacturer can’t help we’re the best option in Ottawa for all sorts of repairs. From obscure or older Android models to Macbooks and Apple iPhone’s we can get your phone or tablet working again when others have deemed it unfixable. Looking for a repair quote for a specific issue? Use the online repair quote link on this page to request a quote or give us a call at 613-723-6363 for a quick price quote or to answer any questions you may have.",
+    "content": "Geebo Device Repair is accessible and conveniently located at 30 Farnham Gate Rd next to the Rockingham Ridge Dental Centre and services all popular and less common makes and models of smartphones, tablets and even laptops. If your device is damaged beyond repair, or you're worried about recovering your data, don’t give up before coming to see us. Use the repair quote widget on this page to select your device, issue and supply your contact info and we can get you a price ASAP. Turnaround time for your device can vary depending on the severity and if multiple repairs are required, but we’ll always let you know beforehand what the ETA to get your phone, tablet or laptop back in your hands",
     "categories": [
       {
-        "img": "https://storage.googleapis.com/adp_assets/images/8/wireless-mobile.png",
+        "img": "https://storage.googleapis.com/adp_assets/images/3/geebo-mobile.png",
         "title": "Cellphone",
         "order": 1,
         "isVisible": true
       },
       {
-        "img": "https://storage.googleapis.com/adp_assets/images/8/wireless-tablet.png",
+        "img": "https://storage.googleapis.com/adp_assets/images/3/geebo-tablet.png",
         "title": "Tablet",
         "order": 2,
         "isVisible": true
       },
       {
-        "img": "https://storage.googleapis.com/adp_assets/images/8/wireless-computer.png",
+        "img": "https://storage.googleapis.com/adp_assets/images/3/geebo-computer.png",
         "title": "Computer",
         "order": 3,
         "isVisible": true
       },
       {
-        "img": "https://storage.googleapis.com/adp_assets/images/8/wireless-game.png",
+        "img": "https://storage.googleapis.com/adp_assets/images/3/geebo-game.png",
         "title": "Console",
         "order": 4,
         "isVisible": true
       },
       {
-        "img": "https://storage.googleapis.com/adp_assets/images/8/wireless-other.png",
+        "img": "https://storage.googleapis.com/adp_assets/images/3/geebo-other.png",
         "title": "Other",
         "order": 5,
         "isVisible": true
@@ -56,13 +56,13 @@
   },
   "section3": {
     "title": "Trade In Your Device and Save on a New One",
-    "content": "Your older or broken devices are the key to getting an even better deal on a certified pre-owned device. If you’re hanging onto a phone or tablet that may be too expensive to fix or just not worth it for other reasons, definitely bring it by and we can give you competitive trade-in credit towards a repair, accessory or device. Pricing does depend on the model, aesthetic condition and subject to a full function test - front camera, back camera, WiFi, battery, bluetooth, etc.",
+    "content": "We pride ourselves on always having the most competitive and affordable prices in Halifax, but you can get an even better deal on a repair or certified pre-owned device by trading in your old, broken or unwanted mobile devices. Even if your phone is broken, and just not cost-effective to fix, we can take it as trade in credit towards the cost of a certain repair or certified pre-owned device. We always match or even beat the trade in prices offered by the large carriers.",
     "isVisible": true,
     "imgLink": "https://storage.googleapis.com/adp_assets/images/common/trade-phone-1.svg"
   },
   "section4": {
     "title": "Buy a New or Used Device with our 12 Month Warranty",
-    "content": "Our in store devices range from brand new sealed units to certified pre-owned units that have passed a full 60 point inspection and are backed by a lifetime IMEI guarantee. Don’t bother with sketchy Facebook or Kijii phone purchases which give you zero protection against any functional defects, blacklist issues, iCloud account locks or anything that would make the purchase a problem or leave you with a useless phone.",
+    "content": "As a DeviceList Authorized Dealer, we are able to offer some of the best deals on certified pre-owned devices no matter what your budget, platform preference (Android, or iOS) as well as current celular carrier. Avoid the annoying unease of buying a used device off a platform like Facebook or any other unregulated marketplace. All our devices have passed a 60-point function test which makes sure everything from the auto-focus on the camera to the WiFi and bluetooth works perfectly, not to mention the aesthetic condition. No matter what device you're looking for, definitely reach out to Geebo first for the best deal!",
     "isVisible": true,
     "cards": [
       {

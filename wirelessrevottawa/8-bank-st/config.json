@@ -1,52 +1,52 @@
 {
   "headData": {
-    "title": "Specific Location | Mobile Tech Lab - Corydon",
+    "title": "WirelessRev - 1800 Bank St. Ottawa, ON",
     "metaList": [
       {
         "name": "description",
-        "content": "Specific Location Page for Mobile Tech Lab Corydon Ave area."
+        "content": "Ottawa's fastest and most affordable cell phone, tablet and laptop repair is WirelessRev at 1800 Bank St. Call or book an appointment online today!"
       }
     ]
   },
   "section1": {
-    "title": "Winnipeg’s Fastest Phone, Tablet & Laptop Repair",
-    "subTitle": "2020 Corydon Ave Unit F",
+    "title": "Victoria BC’s Fastest Phone, Tablet & Laptop Repair",
+    "subTitle": "3388 Bank St.",
     "locationExtraNote": {
-      "title": "Mobile Tech Lab - Corydon",
-      "content": "* The closest major intersection is Kenaston and Corydon, and we’re located across from the Safeway in the Tuxedo Edge stripmall next to TD."
+      "title": "WirelessRev Ottawa - Bank St",
+      "content": "* The closest major intersection is Bank St, and we’re located across from the Safeway in the Tuxedo Edge stripmall next to TD."
     },
     "displayMap": true
   },
   "section2": {
     "title": "Get Your Device Fixed Fast & Reliably",
-    "content": "Conveniently located in Tuxedo / River Heights, Mobile Tech Lab’s flagship location provides the fastest and most advanced cell phone, tablet, laptop and game console repair services anywhere in Winnipeg. If Apple, Samsung or your manufacturer or carrier has told you your device is damaged beyond repair, definitely give us a call or use the online quote widget on this site to get in touch with us. We offer curbside pickup, mail-in and walk-in services and our   Corydon storefront is COVID-safe with mandatory masks and limited in store capacity as per City of Winnipeg guidelines.",
+    "content": "WirelessRev is Ottawa’s best choice for your device repair needs. Whether you just need a fresh battery or your phone seems beyond economical repair, bring it into our shop so we can take a look. When your carrier or manufacturer can’t help we’re the best option in Ottawa for all sorts of repairs. From obscure or older Android models to Macbooks and Apple iPhone’s we can get your phone or tablet working again when others have deemed it unfixable. Looking for a repair quote for a specific issue? Use the online repair quote link on this page to request a quote or give us a call at 613-723-6363 for a quick price quote or to answer any questions you may have.",
     "categories": [
       {
-        "img": "https://storage.googleapis.com/adp_assets/images/4/mobiletech-mobile.png",
+        "img": "https://storage.googleapis.com/adp_assets/images/8/wireless-mobile.png",
         "title": "Cellphone",
         "order": 1,
         "isVisible": true
       },
       {
-        "img": "https://storage.googleapis.com/adp_assets/images/4/mobiletech-tablet.png",
+        "img": "https://storage.googleapis.com/adp_assets/images/8/wireless-tablet.png",
         "title": "Tablet",
         "order": 2,
         "isVisible": true
       },
       {
-        "img": "https://storage.googleapis.com/adp_assets/images/4/mobiletech-computer.png",
+        "img": "https://storage.googleapis.com/adp_assets/images/8/wireless-computer.png",
         "title": "Computer",
         "order": 3,
         "isVisible": true
       },
       {
-        "img": "https://storage.googleapis.com/adp_assets/images/4/mobiletech-game.png",
+        "img": "https://storage.googleapis.com/adp_assets/images/8/wireless-game.png",
         "title": "Console",
         "order": 4,
         "isVisible": true
       },
       {
-        "img": "https://storage.googleapis.com/adp_assets/images/4/mobiletech-other.png",
+        "img": "https://storage.googleapis.com/adp_assets/images/8/wireless-other.png",
         "title": "Other",
         "order": 5,
         "isVisible": true
@@ -56,13 +56,13 @@
   },
   "section3": {
     "title": "Trade In Your Device and Save on a New One",
-    "content": "We’re proud to offer the most competitive prices for used, damaged or broken device trade-in in the city. Get a discount on a  certified pre-owned device that has passed a full 60-point function test and battery health test when you trade in your old device, whether it’s damaged or not. Purchasing a new device doesn’t have to be expensive or painful, we offer a streamlined process whether online or instore at our Corydon Ave storefront.",
+    "content": "Your older or broken devices are the key to getting an even better deal on a certified pre-owned device. If you’re hanging onto a phone or tablet that may be too expensive to fix or just not worth it for other reasons, definitely bring it by and we can give you competitive trade-in credit towards a repair, accessory or device. Pricing does depend on the model, aesthetic condition and subject to a full function test - front camera, back camera, WiFi, battery, bluetooth, etc.",
     "isVisible": true,
     "imgLink": "https://storage.googleapis.com/adp_assets/images/common/trade-phone-1.svg"
   },
   "section4": {
     "title": "Buy a New or Used Device with our 12 Month Warranty",
-    "content": "All Mobile Tech Lab devices are meticulously tested and graded before being available for sale. We stand behind all our devices with a one year warranty and lifetime IMEI guarantee. Our devices are not repaired or purchased off Kijiji or Facebook, and instead come from verified carrier auctions in the States. We then sell the best condition and tested devices instore at competitive rates and pass the savings onto you.",
+    "content": "Our in store devices range from brand new sealed units to certified pre-owned units that have passed a full 60 point inspection and are backed by a lifetime IMEI guarantee. Don’t bother with sketchy Facebook or Kijii phone purchases which give you zero protection against any functional defects, blacklist issues, iCloud account locks or anything that would make the purchase a problem or leave you with a useless phone.",
     "isVisible": true,
     "cards": [
       {
