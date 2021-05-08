@@ -9,11 +9,11 @@
     ]
   },
   "section1": {
-    "title": "Okotoks Fastest Phone, Tablet & Laptop Repair",
+    "title": "Okotoks Fastest Phone, Tablet & Computer Repair",
     "subTitle": "1300 Village Lane #11",
     "locationExtraNote": {
-      "title": "PhonePhix - Village Lane",
-      "content": "* The closest major intersection is Village Lane, and we’re located across from the Safeway in the Tuxedo Edge stripmall next to TD."
+      "title": "Phonephix - Okotoks",
+      "content": ""
     },
     "displayMap": true
   },
@@ -108,7 +108,7 @@
         "isVisible": true
       }
     ],
-    "imgVisible": true
+    "imgVisible": false
   },
   "section5": {
     "title": "See Why Customers Love Mobile Tech Lab",

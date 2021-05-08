@@ -9,7 +9,7 @@
     ]
   },
   "section1": {
-    "title": "Winnipeg’s Fastest Phone, Tablet & Laptop Repair",
+    "title": "Winnipeg’s Fastest Phone, Tablet & Computer Repair",
     "subTitle": "2020 Corydon Ave Unit F",
     "locationExtraNote": {
       "title": "Mobile Tech Lab - Corydon",
@@ -108,7 +108,7 @@
         "isVisible": true
       }
     ],
-    "imgVisible": true
+    "imgVisible": false
   },
   "section5": {
     "title": "See Why Customers Love Mobile Tech Lab",

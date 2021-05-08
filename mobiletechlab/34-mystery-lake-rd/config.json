@@ -1,10 +1,10 @@
 {
   "headData": {
-    "title": "Mobile Tech Lab Thompson - 1530-300 Mystery Lake Road",
+    "title": "iPhone, iPad, Cell Phone Repair Thompson, Manitoba | Mobile Tech Lab",
     "metaList": [
       {
         "name": "description",
-        "content": "Opening in Thompson this summer."
+        "content": "Opening in Thompson, Manitoba - City Centre Mall this summer!"
       }
     ]
   },
@@ -22,31 +22,31 @@
     "content": "",
     "categories": [
       {
-        "img": "https://storage.googleapis.com/adp_assets/images/4/mobiletech-mobile.png",
+        "img": "https://storage.googleapis.com/adp_dev_assets/images/1/northtech-mobile.png",
         "title": "Cellphone",
         "order": 1,
         "isVisible": true
       },
       {
-        "img": "https://storage.googleapis.com/adp_assets/images/4/mobiletech-tablet.png",
+        "img": "https://storage.googleapis.com/adp_dev_assets/images/1/northtech-tablet.png",
         "title": "Tablet",
         "order": 2,
         "isVisible": true
       },
       {
-        "img": "https://storage.googleapis.com/adp_assets/images/4/mobiletech-computer.png",
+        "img": "https://storage.googleapis.com/adp_dev_assets/images/1/northtech-computer.png",
         "title": "Computer",
         "order": 3,
         "isVisible": true
       },
       {
-        "img": "https://storage.googleapis.com/adp_assets/images/4/mobiletech-game.png",
+        "img": "https://storage.googleapis.com/adp_dev_assets/images/1/northtech-game.png",
         "title": "Console",
         "order": 4,
         "isVisible": true
       },
       {
-        "img": "https://storage.googleapis.com/adp_assets/images/4/mobiletech-other.png",
+        "img": "https://storage.googleapis.com/adp_dev_assets/images/1/northtech-other.png",
         "title": "Other",
         "order": 5,
         "isVisible": true
@@ -68,7 +68,7 @@
     "isVisible": true,
     "cards": [
       {
-        "img": "https://storage.googleapis.com/adp_dev_images/products/1/iphone-12.png",
+        "img": "https://storage.googleapis.com/adp_prod_images/products/common/iphone-12.png",
         "title": "iPhone 12",
         "subtitle": "As low as",
         "price": "$897",
@@ -76,7 +76,7 @@
         "isVisible": true
       },
       {
-        "img": "https://storage.googleapis.com/adp_dev_images/products/1/iphone-5.png",
+        "img": "https://storage.googleapis.com/adp_prod_images/products/common/iphone-5.png",
         "title": "iPhone 5",
         "subtitle": "As low as",
         "price": "$897",
@@ -84,7 +84,7 @@
         "isVisible": true
       },
       {
-        "img": "https://storage.googleapis.com/adp_dev_images/products/1/iphone-5s.png",
+        "img": "https://storage.googleapis.com/adp_prod_images/products/common/iphone-5s.png",
         "title": "iPhone 5s",
         "subtitle": "As low as",
         "price": "$897",
@@ -92,7 +92,7 @@
         "isVisible": true
       },
       {
-        "img": "https://storage.googleapis.com/adp_dev_images/products/1/iphone-7-plus.png",
+        "img": "https://storage.googleapis.com/adp_prod_images/products/common/iphone-7-plus.png",
         "title": "iPhone 7 Plus",
         "subtitle": "As low as",
         "price": "$897",
@@ -100,7 +100,7 @@
         "isVisible": true
       },
       {
-        "img": "https://storage.googleapis.com/adp_dev_images/products/1/iphone-8.png",
+        "img": "https://storage.googleapis.com/adp_prod_images/products/common/iphone-8.png",
         "title": "iPhone 8",
         "subtitle": "As low as",
         "price": "$897",
@@ -108,7 +108,7 @@
         "isVisible": true
       }
     ],
-    "imgVisible": true
+    "imgVisible": false
   },
   "section5": {
     "title": "See Why Customers Love Mobile Tech Lab",
@@ -140,7 +140,7 @@
     ]
   },
   "commingsoon": {
-    "title": "Opening in Thompson this summer!",
+    "title": "Opening in Thompson, MB this summer!",
     "subtitle": "In the City Centre Mall 1530 - 300 Mystery Lake Road",
     "flag": true
   }
