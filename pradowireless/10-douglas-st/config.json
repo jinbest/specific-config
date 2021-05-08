@@ -52,13 +52,15 @@
         "isVisible": true
       }
     ],
-    "isVisible": true
+    "isVisible": true,
+    "imgVisible": true
   },
   "section3": {
     "title": "Trade In Your Device and Save on a New One",
     "content": "Your old or broken cell phones and tablets are worth money and we’ll gladly give you a discount on any repair, accessory or pre-owned device. While carriers may offer you bill credit only when you sign up for a long contract, we can take any of your older devices and offer cash or store credit - even if the device is damaged, deprecated or non-functioning.",
     "isVisible": true,
-    "imgLink": "https://storage.googleapis.com/adp_assets/images/common/trade-phone-1.svg"
+    "imgLink": "https://storage.googleapis.com/adp_assets/images/common/trade-phone-1.svg",
+    "imgVisible": true
   },
   "section4": {
     "title": "Buy a New or Used Device with our 12 Month Warranty",
@@ -105,7 +107,8 @@
         "order": 5,
         "isVisible": true
       }
-    ]
+    ],
+    "imgVisible": true
   },
   "section5": {
     "title": "See Why Customers Love Mobile Tech Lab",

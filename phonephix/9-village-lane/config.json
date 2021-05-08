@@ -52,13 +52,15 @@
         "isVisible": true
       }
     ],
-    "isVisible": true
+    "isVisible": true,
+    "imgVisible": true
   },
   "section3": {
     "title": "Trade In Your Device and Save on a New One",
     "content": "Older devices can be traded in at our Okotoks location for either cash or credit towards either a repair or the cost of a new device. Skip the sketchy Facebook marketplace meetups, and get cash for your old, broken or unwanted devices by bringing it by our conveniently located Okotoks storefront. While carriers may only give you bill credit or accessory credit, we gladly pay out in cash or e-transfer.",
     "isVisible": true,
-    "imgLink": "https://storage.googleapis.com/adp_assets/images/common/trade-phone-1.svg"
+    "imgLink": "https://storage.googleapis.com/adp_assets/images/common/trade-phone-1.svg",
+    "imgVisible": true
   },
   "section4": {
     "title": "Buy a New or Used Device with our 12 Month Warranty",
@@ -105,7 +107,8 @@
         "order": 5,
         "isVisible": true
       }
-    ]
+    ],
+    "imgVisible": true
   },
   "section5": {
     "title": "See Why Customers Love Mobile Tech Lab",

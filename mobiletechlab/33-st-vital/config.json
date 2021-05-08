@@ -52,13 +52,15 @@
         "isVisible": true
       }
     ],
-    "isVisible": true
+    "isVisible": true,
+    "imgVisible": true
   },
   "section3": {
     "title": "Trade In Your Device and Save on a New One",
     "content": "If you’re in the market for a new device, our certified pre-owned devices are the most economical solution especially when compared to financing a device alongside a plan through a carrier. Not only can you trade in your used devices no matter what the condition for credit towards a brand new device, or even the cost of a repair. Our pricing is always competitive to Rogers or Bell’s trade-in prices and while they may give you credit towards a bill, we can offer you either cash or credit towards the cost of anything in store. In addition, the remaining balance can be financed as low as 0%, which is",
     "isVisible": true,
-    "imgLink": "https://storage.googleapis.com/adp_assets/images/common/trade-phone-1.svg"
+    "imgLink": "https://storage.googleapis.com/adp_assets/images/common/trade-phone-1.svg",
+    "imgVisible": true
   },
   "section4": {
     "title": "Buy a New or Used Device with our 12 Month Warranty",
@@ -105,7 +107,8 @@
         "order": 5,
         "isVisible": true
       }
-    ]
+    ],
+    "imgVisible": true
   },
   "section5": {
     "title": "See Why Customers Love Mobile Tech Lab",

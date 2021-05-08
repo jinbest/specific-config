@@ -52,13 +52,15 @@
         "isVisible": true
       }
     ],
-    "isVisible": true
+    "isVisible": true,
+    "imgVisible": true
   },
   "section3": {
     "title": "Trade In Your Device and Save on a New One",
     "content": "Your older or broken devices are the key to getting an even better deal on a certified pre-owned device. If you’re hanging onto a phone or tablet that may be too expensive to fix or just not worth it for other reasons, definitely bring it by and we can give you competitive trade-in credit towards a repair, accessory or device. Pricing does depend on the model, aesthetic condition and subject to a full function test - front camera, back camera, WiFi, battery, bluetooth, etc.",
     "isVisible": true,
-    "imgLink": "https://storage.googleapis.com/adp_assets/images/common/trade-phone-1.svg"
+    "imgLink": "https://storage.googleapis.com/adp_assets/images/common/trade-phone-1.svg",
+    "imgVisible": true
   },
   "section4": {
     "title": "Buy a New or Used Device with our 12 Month Warranty",
@@ -105,7 +107,8 @@
         "order": 5,
         "isVisible": true
       }
-    ]
+    ],
+    "imgVisible": true
   },
   "section5": {
     "title": "See Why Customers Love Mobile Tech Lab",

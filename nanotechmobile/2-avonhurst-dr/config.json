@@ -52,13 +52,15 @@
         "isVisible": true
       }
     ],
-    "isVisible": true
+    "isVisible": true,
+    "imgVisible": true
   },
   "section3": {
     "title": "Trade In Your Device and Save on a New One",
     "content": "We have competitive pricing on many brands and manufacturers of certified pre-owned and brand new mobile devices, however we can always take your old, broken, damaged or unwanted devices as trade-in credit towards the cost of a new or certified pre-owned device. While Rogers and Bell may only give you bill credit or store credit, and only take certain devices we can take almost any device and either pay out cash or credit towards another device or repair. Avoid the awkward Kijiji meetups and bring us your old devices for a discount on a new one!",
     "isVisible": true,
-    "imgLink": "https://storage.googleapis.com/adp_assets/images/common/trade-phone-1.svg"
+    "imgLink": "https://storage.googleapis.com/adp_assets/images/common/trade-phone-1.svg",
+    "imgVisible": true
   },
   "section4": {
     "title": "Buy a New or Used Device with our 12 Month Warranty",
@@ -105,7 +107,8 @@
         "order": 5,
         "isVisible": true
       }
-    ]
+    ],
+    "imgVisible": true
   },
   "section5": {
     "title": "See Why Customers Love Mobile Tech Lab",

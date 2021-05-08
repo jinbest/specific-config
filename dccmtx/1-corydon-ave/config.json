@@ -52,13 +52,15 @@
         "isVisible": true
       }
     ],
-    "isVisible": true
+    "isVisible": true,
+    "imgVisible": true
   },
   "section3": {
     "title": "Trade In Your Device and Save on a New One",
     "content": "We’re proud to offer the most competitive prices for used, damaged or broken device trade-in in the city. Get a discount on a  certified pre-owned device that has passed a full 60-point function test and battery health test when you trade in your old device, whether it’s damaged or not. Purchasing a new device doesn’t have to be expensive or painful, we offer a streamlined process whether online or instore at our Corydon Ave storefront. ",
     "isVisible": true,
-    "imgLink": "https://storage.googleapis.com/adp_dev_assets/images/common/trade-phone-1.svg"
+    "imgLink": "https://storage.googleapis.com/adp_dev_assets/images/common/trade-phone-1.svg",
+    "imgVisible": true
   },
   "section4": {
     "title": "Buy a New or Used Device with our 12 Month Warranty",
@@ -105,7 +107,8 @@
         "order": 5,
         "isVisible": true
       }
-    ]
+    ],
+    "imgVisible": true
   },
   "section5": {
     "title": "See Why Customers Love Mobile Tech Lab",
